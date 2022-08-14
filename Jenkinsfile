@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 node('built-in') 
+=======
+node('built-in') 
+>>>>>>> 6925f12a62f7be71a42a77761cda6a894fed4456
 {
     stage('CDow') 
     {
